@@ -1,4 +1,4 @@
-# ib-history
+# Stock Trading Data
 
 Download historical data from Interactive Brokers' API by first assembling a ticker universe using non-IB methods. Prompted by me being annoyed at there not being a free, sizeable stocks dataset anywhere for playing around with. Non-commercial purposes, naturally.
 

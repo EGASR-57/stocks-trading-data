@@ -1,0 +1,2 @@
+ibapi @ file:///home/edu/IBJts/source/pythonclient
+protobuf==5.29.3

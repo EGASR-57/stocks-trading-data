@@ -1,6 +1,9 @@
 # Virtual environment
 .venv/
 
+# VS Code settings
+.vscode/
+
 # Python bytecode
 __pycache__/
 *.py[cod]
